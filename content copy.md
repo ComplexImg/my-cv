@@ -9,7 +9,7 @@ Location: Warsaw, Poland | Open to relocation
 
 ## Summary
 
-Front-end & Computer Vision engineer with a broad experience in solving various problem types starting from standard web & mobile applications using React, ending with high-performance computations, graphic engines development, computer vision pipelines setup, etc. Have rich experience in 2D/3D graphics and games, managing datasets, training and evaluating models, and effectively applying them to solve business problems. Worked and extended large-scale projects and monorepos and can navigate through large codebase with sophisticated architecture.
+Front-end & Computer Vision engineer with a broad experience in solving various problem types starting from standard web & mobile applications using React, ending with high-performance computations, graphic engines development, computer vision pipelines setup, etc. Have reach experience in 2D/3D graphics and games, managing datasets, training and evaluating models, and effectively applying them to solve business problems. Worked and extended huge projects and monorepos and can navigate through large codebase with sophisticated architecture.
 
 As a co-founder of a startup and contributor to product companies, I've had the opportunity to not only develop but also take full ownership of complex systems and features, investigate problems and markets, drive projects from idea to execution, prepare system design, gather requirements and collaborate with the right teams to ensure optimal results.
 
@@ -21,24 +21,27 @@ As a co-founder of a startup and contributor to product companies, I've had the 
 
 **Co-founder, Front-end, Computer Vision Engineer**
 
-Photo Album Creator Web Application startup. Generate and print albums with users’ photos. Automatic making layout, removing duplicates, not photos, smart crop, using AI features and modern algorithms ([link](https://memories.design/)).
+Photo Album Creator Web Application. My startup to generate and print albums with users’ photos. Automatic making layout, removing duplicates, not photos, auto crop ([link](https://memories.design/)). Working in 150 countries, using AI features and modern algorithms.
 
-* Work with analytics, decision making and global planning, user behavior, and market research to guide a project and the business;
-* Developed 70% of the React UI with Server Side Rendering and the main architecture of the front-end part;
-* Set up machine learning infrastructure and trained CNN models to achieve 95% accuracy in image labeling, detect duplicates and segment photos for smart crop, and integrated a pipeline on client side (browser) with performance of 2000 images per minute;
-* Managed localization and GDPR compliance, expanding the project to 150+ countries and 4 languages with CEO optimizations;
-* Was responsible for customer support, feedback collection and processing, and final book quality and improvements.
+* Work with analytics, decision-making and planning, user behavior and research the market;
+* Developed 70% of the UI and the main architecture of the front-end part;
+* Prepared a Machine Learning infrastructure, worked and trained CNNs models to detect image labels, implemented a Computer Vision flow of several ML models in the front-end with 95% accuracy and good performance;
+* Proposed and designed a performant algorithm to detect duplicate photos to hide them;
+* Album quality is much better and conversion is 200% for users with processing compared with users without.
+* Worked with GDPR, markets policies and localization - prepared and started the project in 150+ countries.
+* Integrated full application localization system on 4 languages with CEO optimizations.
 
 ### Evolution (2023/10 - Present)
 
 **Front-end, Graphics, Computer Vision Engineer**
 
-Web and Mobile games company working with live video stream games, 2D/3D graphics, machine learning and other cutting edge technologies.
+A a veteran games design company for Web and Mobile working with live video streams games, 2D and 3D games, machine learning and other cutting edge technologies.
 
-* Led the design and development of a particle system engine and editor for WebGL, Canvas and Pixi renderers, reducing 2-3 times animation costs and development time;
-* Researched and integrated a video recognition pipeline using YOLO8 and OpenCV, automating tasks and saving up to 10 seconds per game round;
-* Documented complex systems and led presentations on technical initiatives, participated in company hackathons;
-* Participated in a company-wide project to create a foundation for different game types. The goal was to simplify new game development with a flexible, expandable setup, developer tools, a prepared environment, and  up-to-date code standards — all in one place.
+* Led, designed an architecture, developed and owned a particle system engine and editor for it which significantly decrease preparing, integrating and supporting complex animations in games - it saves weeks of developers time, and reduce 2-3 times graphical effects costs for the company;
+* Researched, made and integrated a video recognition pipeline from camera stream using YOLO8 model and OpenCV as a microservice and connected with the game flow - automation manual process of detecting which saves 5-10 seconds on each game round;
+* Developed an internal bootstrap project for different games, starting with Live games with video translation and sync and ending with pure random 2D games;
+* Participated in games development process, developed assets managing and branding and other helping tools to speed up the workflow and save developers time providing more non-developer tools;
+* Prepared and supported complex projects documentation for developer teams and non-developers in the company, made presentations of the team and my projects to other;
 
 ### WANNA x Farfetch (2021/06 - 2022/06)
 
@@ -75,7 +78,7 @@ JavaScript, TypeScript, React, Redux, MobX, Flutter, Bloc, Webpack, WebAssembly 
 
 ### Graphics
 
-Three.js, Pixi.js, Particle systems, Basic maths, vectors, physics, game development, 2D/3D Graphics
+Three.js, Pixi.js, Particles systems, Basic maths, vectors, physics, game development, 2D/3D Graphics
 
 ### Machine Learning
 
@@ -87,7 +90,7 @@ React Native, Flutter, Bloc, Bluetooth Low Energy, SqLite, Push Notifications, F
 
 ### Others skills and experience
 
-System design, development patterns, algorithms and data structures, hackathon participating, initiative, interviewing, leading projects, Github / Gitlab CI/CD, Java, PHP, WordPress CMS, MySQL, relational databases
+System design, development patterns, algorithms and data structures, hackathon participating, initiative, interviewing, leading projects, Github / Gitlab CI/CD, experience with Java, PHP, WordPress CMS, MySQL, relational databases
 
 ---
 
