@@ -1,14 +1,14 @@
-# Name Surname
+# Slava Sidorenko
 
 **Senior Front-End & Graphics Engineer (8+ years) | Computer Vision & Machine Learning Engineer (3+ years)**
 
-Email: mockedmail@gmail.com | LinkedIn: [name-surname](https://www.linkedin.com/in/name-surname/) | Phone: +123123123 | Location: Warsaw, Poland | Open to relocation
+Email: ideaaru@gmail.com | LinkedIn: [sidorenko-slava](https://www.linkedin.com/in/sidorenko-slava/) | Phone: +48572423230 | Location: Warsaw, Poland | Open to relocation
 
 ## Summary
 
-Front-end & Computer Vision engineer with a broad experience in solving various problem types starting from standard web & mobile applications using React, ending with high-performance computations, graphic engines development, computer vision pipelines setup, etc. Have rich experience in 2D/3D graphics and games, managing datasets, training and evaluating models, and efficiently applying them to solve business problems. Worked and extended large-scale projects and monorepos and can navigate through large codebase with sophisticated architecture.
+Front-end & Computer Vision engineer with broad experience ranging from web & mobile applications using React to high-performance computations, graphics engine development, and computer vision pipelines. Skilled in 2D/3D graphics, games, dataset management, and model training to solve business problems. Experienced in navigating large-scale projects and monorepos with sophisticated architecture. 
 
-As a co-founder of a startup and contributor to product companies, I've had the opportunity to not only develop but also take full ownership of complex systems and features, investigate problems and markets, drive projects from idea to execution, prepare system design, gather requirements and collaborate with the right teams to ensure optimal results.
+As a startup co-founder and product company contributor, I've had the opportunity to not only develop but also take full ownership of complex systems and features, investigate problems and markets, drive projects from idea to execution, prepare system design, gather requirements and cross-team collaboration for optimal results.
 
 ## Working Experience
 
